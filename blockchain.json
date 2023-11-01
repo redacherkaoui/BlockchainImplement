@@ -1,0 +1,74 @@
+[
+  {
+    "previousHash": null,
+    "hash": 0
+  },
+  {
+    "previousHash": 0,
+    "hash": "0.4997053433593508",
+    "transactions": [
+      {
+        "fromAddress": "Alice",
+        "toAddress": "Bob",
+        "amount": 10
+      },
+      {
+        "fromAddress": "Bob",
+        "toAddress": "Alice",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "previousHash": "0.4997053433593508",
+    "hash": "0.6081564166600089",
+    "transactions": []
+  },
+  {
+    "previousHash": "0.6081564166600089",
+    "hash": "0.7077718292568309",
+    "transactions": []
+  },
+  {
+    "previousHash": "0.7077718292568309",
+    "hash": "0.48772646809692555",
+    "transactions": [
+      {
+        "fromAddress": "Alice",
+        "toAddress": "Bob",
+        "amount": 20
+      },
+      {
+        "fromAddress": "Bob",
+        "toAddress": "Alice",
+        "amount": 15
+      },
+      {
+        "fromAddress": "Carol",
+        "toAddress": "Alice",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "previousHash": "0.48772646809692555",
+    "hash": "0.3374423241928928",
+    "transactions": [
+      {
+        "fromAddress": "Alice",
+        "toAddress": "Bob",
+        "amount": 20
+      },
+      {
+        "fromAddress": "Bob",
+        "toAddress": "Alice",
+        "amount": 15
+      },
+      {
+        "fromAddress": "Carol",
+        "toAddress": "Alice",
+        "amount": 25
+      }
+    ]
+  }
+]

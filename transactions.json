@@ -1,0 +1,17 @@
+[
+  {
+    "fromAddress": "Alice",
+    "toAddress": "Bob",
+    "amount": 20
+  },
+  {
+    "fromAddress": "Bob",
+    "toAddress": "Alice",
+    "amount": 15
+  },
+  {
+    "fromAddress": "Carol",
+    "toAddress": "Alice",
+    "amount": 25
+  }
+]

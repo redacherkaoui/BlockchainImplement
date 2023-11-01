@@ -1,0 +1,18 @@
+{
+  "name": "blockimplement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-block.js",
+  "type": "module",
+  "scripts": {
+    "start": "node add-block.js",
+    "add-transaction": "node add-transaction.js",
+    "init-blockchain": "node init-blockchain.js",
+    "validate-chain": "node validate-chain.js"
+    
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
